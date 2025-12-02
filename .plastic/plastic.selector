@@ -1,0 +1,3 @@
+repository "Hotel-Espir@Lost_Souls_Interactive@cloud"
+  path "/"
+    smartbranch "/main"

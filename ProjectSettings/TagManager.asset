@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Footstep/CARPET
+  - Footstep/CONCRETE
+  - Footstep/WOOD
+  - Footstep/TILE
+  - Interactable
+  - Footstep/GLASS
+  - Event
+  - Password
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PlayerMesh
+  - ShadowBlocker
+  - PP
+  - Item
+  - LootIndicator
+  - Door
+  - DoorNavmesh
+  - PlayerBlock
+  - NavmeshIgnore
+  - SelfCollision
+  - Wall
+  - Inventory
+  - IgnorePlayer
+  - RatPath
+  - Rat
+  - Corpse
+  - Interact
+  - PhysicObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Icon
+    uniqueID: 3077210441
+    locked: 0

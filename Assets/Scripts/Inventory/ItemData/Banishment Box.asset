@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc7a28ff8d68384095530b55a048b59, type: 3}
+  m_Name: Banishment Box
+  m_EditorClassIdentifier: 
+  itemName: Banishment  box
+  usable: 1
+  destroyOnUse: 0
+  twoHanded: 1
+  pickUpSound:
+  - {fileID: 8300000, guid: 645790dfdee9ca74b8d25757257abd77, type: 3}
+  useSound: {fileID: 8300000, guid: 88cd56546b515564bb5780d169f31e16, type: 3}
+  animationID: 3
+  itemCategory: 0

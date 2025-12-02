@@ -1,0 +1,17 @@
+How fancy?
+Was fancy when build around 20 years earlier, but have deteriorated a bit since even if the staff have tried to keep everything nice and clean.
+
+
+
+
+Questions for Felix:
+Should doors be apart of the modules, or only the door frames? -> Same question regarding stuff like curtains
+
+What does the texturing/uv process look like? -> Is it all in blender or do you texture in Unity?
+How many modules do you normally need, for this project? -> Do you have a single high res texture-set with all the different needed textures, like basic wall-texture, floor texture, doorframe texture and so on, or do you have a texture per type of module or something in between?
+
+Do you stage in unity or blender or both?
+
+How big should the modules be?
+
+Is lighting done through emmisive texture or lights in engine or both?

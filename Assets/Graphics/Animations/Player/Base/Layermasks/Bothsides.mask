@@ -1,0 +1,715 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bothsides
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Arms_GEO
+    m_Weight: 1
+  - m_Path: BanBox_PROP
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Disc_Ctrl_Grp_Offset
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Disc_Ctrl_Grp_Offset/BanBox_Disc_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Disc_Ctrl_Grp_Offset/BanBox_Disc_Ctrl_Grp/Disc_Ctrl
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp/BanBox_Hold_Ctrl
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp/BanBox_Hold_Ctrl/BanBox_Box_Body_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp/BanBox_Hold_Ctrl/BanBox_Box_Body_Ctrl_Grp/BanBox_Box_Body_Ctrl
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp/BanBox_Hold_Ctrl/BanBox_Box_Body_Ctrl_Grp/BanBox_Box_Body_Ctrl/BanBox_Crank_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp/BanBox_Hold_Ctrl/BanBox_Box_Body_Ctrl_Grp/BanBox_Box_Body_Ctrl/BanBox_Crank_Ctrl_Grp/BanBox_Crank_Ctrl
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishing_Box_Rig_Grp/BanBox_Hold_Ctrl_Grp/BanBox_Hold_Ctrl/BanBox_Box_Body_Ctrl_Grp/BanBox_Box_Body_Ctrl/BanBox_Crank_Ctrl_Grp/BanBox_Crank_Ctrl/BanBox_Crank_Rot_Loc
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishment_Box_Geo
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishment_Box_Geo/BanishingBox_Crank_GEO
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishment_Box_Geo/BanishingBox_Disc_LP_GEO
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishment_Box_Geo/BanishingBox_Handle_GEO
+    m_Weight: 1
+  - m_Path: BanBox_PROP/Banishment_Box_Geo/BanishingBox_Main_GEO
+    m_Weight: 1
+  - m_Path: Flashlight_PROP
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Geo
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Geo/Flashlight_MainBody
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Geo/Flashlight_Slider
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Hold_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Hold_Ctrl_Grp/Flashlight_Hold_Ctrl
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Main_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Main_Ctrl_Grp/Flashlight_Main_Ctrl
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Main_Ctrl_Grp/Flashlight_Main_Ctrl/Flashlight_Switch_Loc_Grp
+    m_Weight: 1
+  - m_Path: Flashlight_PROP/Flashlight_Main_Ctrl_Grp/Flashlight_Main_Ctrl/Flashlight_Switch_Loc_Grp/Flashlight_Switch_Loc
+    m_Weight: 1
+  - m_Path: Journal_PROP
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl/Left_Cover_Ctrl_Grp_Offset
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl/Left_Cover_Ctrl_Grp_Offset/Left_Cover_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl/Left_Cover_Ctrl_Grp_Offset/Left_Cover_Ctrl_Grp/Left_Cover_Ctrl
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl/Right_Cover_Ctrl_Grp_Offset
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl/Right_Cover_Ctrl_Grp_Offset/Right_Cover_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Journal_PROP/Hold_Ctrl_Grp/Hold_Ctrl/Main_Ctrl_Grp/Book_Main_Ctrl/Right_Cover_Ctrl_Grp_Offset/Right_Cover_Ctrl_Grp/Right_Cover_Ctrl
+    m_Weight: 1
+  - m_Path: Journal_PROP/Journal_Geo
+    m_Weight: 1
+  - m_Path: Journal_PROP/Journal_Geo/Back_Curve_LP
+    m_Weight: 1
+  - m_Path: Journal_PROP/Journal_Geo/Pages_LP
+    m_Weight: 1
+  - m_Path: Journal_PROP/Journal_Geo/String_LP
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Camera_Aim_Loc_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Camera_Aim_Loc_Grp/Camera_Aim_Loc
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_FK_Shoulder_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_FK_Shoulder_Ctrl_Grp/L_FK_Shoulder_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_FK_Shoulder_Ctrl_Grp/L_FK_Shoulder_Ctrl/L_FK_Elbow_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_FK_Shoulder_Ctrl_Grp/L_FK_Shoulder_Ctrl/L_FK_Elbow_Ctrl_Grp/L_FK_Elbow_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_FK_Shoulder_Ctrl_Grp/L_FK_Shoulder_Ctrl/L_FK_Elbow_Ctrl_Grp/L_FK_Elbow_Ctrl/L_FK_Wrist_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_FK_Shoulder_Ctrl_Grp/L_FK_Shoulder_Ctrl/L_FK_Elbow_Ctrl_Grp/L_FK_Elbow_Ctrl/L_FK_Wrist_Ctrl_Grp/L_FK_Wrist_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1/L_Index_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1/L_Index_Ctrl_Grp2/L_Index_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1/L_Index_Ctrl_Grp2/L_Index_Ctrl2/L_Index_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1/L_Index_Ctrl_Grp2/L_Index_Ctrl2/L_Index_Ctrl_Grp3/L_Index_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1/L_Index_Ctrl_Grp2/L_Index_Ctrl2/L_Index_Ctrl_Grp3/L_Index_Ctrl3/L_Index_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Index_Ctrl_Grp1/L_Index_Ctrl1/L_Index_Ctrl_Grp2/L_Index_Ctrl2/L_Index_Ctrl_Grp3/L_Index_Ctrl3/L_Index_Ctrl_Grp4/L_Index_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1/L_Middle_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1/L_Middle_Ctrl_Grp2/L_Middle_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1/L_Middle_Ctrl_Grp2/L_Middle_Ctrl2/L_Middle_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1/L_Middle_Ctrl_Grp2/L_Middle_Ctrl2/L_Middle_Ctrl_Grp3/L_Middle_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1/L_Middle_Ctrl_Grp2/L_Middle_Ctrl2/L_Middle_Ctrl_Grp3/L_Middle_Ctrl3/L_Middle_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Middle_Ctrl_Grp1/L_Middle_Ctrl1/L_Middle_Ctrl_Grp2/L_Middle_Ctrl2/L_Middle_Ctrl_Grp3/L_Middle_Ctrl3/L_Middle_Ctrl_Grp4/L_Middle_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1/L_Pinky_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1/L_Pinky_Ctrl_Grp2/L_Pinky_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1/L_Pinky_Ctrl_Grp2/L_Pinky_Ctrl2/L_Pinky_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1/L_Pinky_Ctrl_Grp2/L_Pinky_Ctrl2/L_Pinky_Ctrl_Grp3/L_Pinky_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1/L_Pinky_Ctrl_Grp2/L_Pinky_Ctrl2/L_Pinky_Ctrl_Grp3/L_Pinky_Ctrl3/L_Pinky_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Pinky_Ctrl_Grp1/L_Pinky_Ctrl1/L_Pinky_Ctrl_Grp2/L_Pinky_Ctrl2/L_Pinky_Ctrl_Grp3/L_Pinky_Ctrl3/L_Pinky_Ctrl_Grp4/L_Pinky_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1/L_Ring_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1/L_Ring_Ctrl_Grp2/L_Ring_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1/L_Ring_Ctrl_Grp2/L_Ring_Ctrl2/L_Ring_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1/L_Ring_Ctrl_Grp2/L_Ring_Ctrl2/L_Ring_Ctrl_Grp3/L_Ring_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1/L_Ring_Ctrl_Grp2/L_Ring_Ctrl2/L_Ring_Ctrl_Grp3/L_Ring_Ctrl3/L_Ring_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Ring_Ctrl_Grp1/L_Ring_Ctrl1/L_Ring_Ctrl_Grp2/L_Ring_Ctrl2/L_Ring_Ctrl_Grp3/L_Ring_Ctrl3/L_Ring_Ctrl_Grp4/L_Ring_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Thumb_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Thumb_Ctrl_Grp1/L_Thumb_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Thumb_Ctrl_Grp1/L_Thumb_Ctrl1/L_Thumb_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Thumb_Ctrl_Grp1/L_Thumb_Ctrl1/L_Thumb_Ctrl_Grp2/L_Thumb_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Thumb_Ctrl_Grp1/L_Thumb_Ctrl1/L_Thumb_Ctrl_Grp2/L_Thumb_Ctrl2/L_Thumb_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Hand_Ctrl_Grp/L_Hand_Ctrl/L_Fingers_Grp/L_Thumb_Ctrl_Grp1/L_Thumb_Ctrl1/L_Thumb_Ctrl_Grp2/L_Thumb_Ctrl2/L_Thumb_Ctrl_Grp3/L_Thumb_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_IK_Hand_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_IK_Hand_Ctrl_Grp/L_IK_Hand_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Prop_Hold_CtrlGrp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/L_Arm_Anchor_Grp/L_Arm_Anchor/L_Prop_Hold_CtrlGrp1/L_Prop_Hold_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_FK_Shoulder_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_FK_Shoulder_Ctrl_Grp/R_FK_Shoulder_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_FK_Shoulder_Ctrl_Grp/R_FK_Shoulder_Ctrl/R_FK_Elbow_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_FK_Shoulder_Ctrl_Grp/R_FK_Shoulder_Ctrl/R_FK_Elbow_Ctrl_Grp/R_FK_Elbow_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_FK_Shoulder_Ctrl_Grp/R_FK_Shoulder_Ctrl/R_FK_Elbow_Ctrl_Grp/R_FK_Elbow_Ctrl/R_FK_Wrist_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_FK_Shoulder_Ctrl_Grp/R_FK_Shoulder_Ctrl/R_FK_Elbow_Ctrl_Grp/R_FK_Elbow_Ctrl/R_FK_Wrist_Ctrl_Grp/R_FK_Wrist_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1/R_Index_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1/R_Index_Ctrl_Grp2/R_Index_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1/R_Index_Ctrl_Grp2/R_Index_Ctrl2/R_Index_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1/R_Index_Ctrl_Grp2/R_Index_Ctrl2/R_Index_Ctrl_Grp3/R_Index_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1/R_Index_Ctrl_Grp2/R_Index_Ctrl2/R_Index_Ctrl_Grp3/R_Index_Ctrl3/R_Index_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Index_Ctrl_Grp1/R_Index_Ctrl1/R_Index_Ctrl_Grp2/R_Index_Ctrl2/R_Index_Ctrl_Grp3/R_Index_Ctrl3/R_Index_Ctrl_Grp4/R_Index_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1/R_Middle_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1/R_Middle_Ctrl_Grp2/R_Middle_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1/R_Middle_Ctrl_Grp2/R_Middle_Ctrl2/R_Middle_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1/R_Middle_Ctrl_Grp2/R_Middle_Ctrl2/R_Middle_Ctrl_Grp3/R_Middle_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1/R_Middle_Ctrl_Grp2/R_Middle_Ctrl2/R_Middle_Ctrl_Grp3/R_Middle_Ctrl3/R_Middle_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Middle_Ctrl_Grp1/R_Middle_Ctrl1/R_Middle_Ctrl_Grp2/R_Middle_Ctrl2/R_Middle_Ctrl_Grp3/R_Middle_Ctrl3/R_Middle_Ctrl_Grp4/R_Middle_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1/R_Pinky_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1/R_Pinky_Ctrl_Grp2/R_Pinky_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1/R_Pinky_Ctrl_Grp2/R_Pinky_Ctrl2/R_Pinky_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1/R_Pinky_Ctrl_Grp2/R_Pinky_Ctrl2/R_Pinky_Ctrl_Grp3/R_Pinky_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1/R_Pinky_Ctrl_Grp2/R_Pinky_Ctrl2/R_Pinky_Ctrl_Grp3/R_Pinky_Ctrl3/R_Pinky_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Pinky_Ctrl_Grp1/R_Pinky_Ctrl1/R_Pinky_Ctrl_Grp2/R_Pinky_Ctrl2/R_Pinky_Ctrl_Grp3/R_Pinky_Ctrl3/R_Pinky_Ctrl_Grp4/R_Pinky_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1/R_Ring_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1/R_Ring_Ctrl_Grp2/R_Ring_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1/R_Ring_Ctrl_Grp2/R_Ring_Ctrl2/R_Ring_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1/R_Ring_Ctrl_Grp2/R_Ring_Ctrl2/R_Ring_Ctrl_Grp3/R_Ring_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1/R_Ring_Ctrl_Grp2/R_Ring_Ctrl2/R_Ring_Ctrl_Grp3/R_Ring_Ctrl3/R_Ring_Ctrl_Grp4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Ring_Ctrl_Grp1/R_Ring_Ctrl1/R_Ring_Ctrl_Grp2/R_Ring_Ctrl2/R_Ring_Ctrl_Grp3/R_Ring_Ctrl3/R_Ring_Ctrl_Grp4/R_Ring_Ctrl4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Thumb_Ctrl_Grp1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Thumb_Ctrl_Grp1/R_Thumb_Ctrl1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Thumb_Ctrl_Grp1/R_Thumb_Ctrl1/R_Thumb_Ctrl_Grp2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Thumb_Ctrl_Grp1/R_Thumb_Ctrl1/R_Thumb_Ctrl_Grp2/R_Thumb_Ctrl2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Thumb_Ctrl_Grp1/R_Thumb_Ctrl1/R_Thumb_Ctrl_Grp2/R_Thumb_Ctrl2/R_Thumb_Ctrl_Grp3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Hand_Ctrl_Grp/R_Hand_Ctrl/R_Fingers_Grp/R_Thumb_Ctrl_Grp1/R_Thumb_Ctrl1/R_Thumb_Ctrl_Grp2/R_Thumb_Ctrl2/R_Thumb_Ctrl_Grp3/R_Thumb_Ctrl3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_IK_Hand_Ctrl_Grp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_IK_Hand_Ctrl_Grp/R_IK_Hand_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Prop_Hold_CtrlGrp
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Ctrls/Main_Ctrl_Grp/Main_Ctrl/Chest_Ctrl_Grp/Chest_Ctrl/R_Arm_Anchor_Grp/R_Arm_Anchor/R_Prop_Hold_CtrlGrp/R_Prop_Hold_Ctrl
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Arm_Anchor_IK_Offset
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Arm_Anchor_IK_Offset/L_IK_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Arm_Anchor_IK_Offset/L_IK_Shoulder_jnt/L_IK_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Arm_Anchor_IK_Offset/L_IK_Shoulder_jnt/L_IK_Elbow_jnt/L_IK_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_FK_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_FK_Shoulder_jnt/L_FK_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_FK_Shoulder_jnt/L_FK_Elbow_jnt/L_FK_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Target_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Target_Shoulder_jnt/L_Target_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Target_Shoulder_jnt/L_Target_Elbow_jnt/L_Forearm1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Target_Shoulder_jnt/L_Target_Elbow_jnt/L_Forearm1/L_Forearm2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Target_Shoulder_jnt/L_Target_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Target_Shoulder_jnt/L_Target_Elbow_jnt/L_Target_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Index_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Index_Meta_jnt/L_Index_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Index_Meta_jnt/L_Index_Knuckle_jnt/L_Index_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Index_Meta_jnt/L_Index_Knuckle_jnt/L_Index_Mid_jnt/L_Index_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Middle_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Middle_Meta_jnt/L_Middle_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Middle_Meta_jnt/L_Middle_Knuckle_jnt/L_Middle_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Middle_Meta_jnt/L_Middle_Knuckle_jnt/L_Middle_Mid_jnt/L_Middle_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Pinky_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Pinky_Meta_jnt/L_Pinky_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Pinky_Meta_jnt/L_Pinky_Knuckle_jnt/L_Pinky_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Pinky_Meta_jnt/L_Pinky_Knuckle_jnt/L_Pinky_Mid_jnt/L_Pinky_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Ring_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Ring_Meta_jnt/L_Ring_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Ring_Meta_jnt/L_Ring_Knuckle_jnt/L_Ring_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Ring_Meta_jnt/L_Ring_Knuckle_jnt/L_Ring_Mid_jnt/L_Ring_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Thumb_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Thumb_Meta_jnt/L_Thumb_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/L_Wrist_Conn_jnt/L_Thumb_Meta_jnt/L_Thumb_Mid_jnt/L_Thumb_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Arm_Anchor_Offset
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Arm_Anchor_Offset/R_IK_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Arm_Anchor_Offset/R_IK_Shoulder_jnt/R_IK_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Arm_Anchor_Offset/R_IK_Shoulder_jnt/R_IK_Elbow_jnt/R_IK_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_FK_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_FK_Shoulder_jnt/R_FK_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_FK_Shoulder_jnt/R_FK_Elbow_jnt/R_FK_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Target_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Target_Shoulder_jnt/R_Target_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Target_Shoulder_jnt/R_Target_Elbow_jnt/R_Forearm1_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Target_Shoulder_jnt/R_Target_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Target_Shoulder_jnt/R_Target_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Target_Shoulder_jnt/R_Target_Elbow_jnt/R_Target_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Index_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Index_Meta_jnt/R_Index_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Index_Meta_jnt/R_Index_Knuckle_jnt/R_Index_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Index_Meta_jnt/R_Index_Knuckle_jnt/R_Index_Mid_jnt/R_Index_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Middle_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Middle_Meta_jnt/R_Middle_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Middle_Meta_jnt/R_Middle_Knuckle_jnt/R_Middle_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Middle_Meta_jnt/R_Middle_Knuckle_jnt/R_Middle_Mid_jnt/R_Middle_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Pinky_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Pinky_Meta_jnt/R_Pinky_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Pinky_Meta_jnt/R_Pinky_Knuckle_jnt/R_Pinky_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Pinky_Meta_jnt/R_Pinky_Knuckle_jnt/R_Pinky_Mid_jnt/R_Pinky_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Ring_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Ring_Meta_jnt/R_Ring_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Ring_Meta_jnt/R_Ring_Knuckle_jnt/R_Ring_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Ring_Meta_jnt/R_Ring_Knuckle_jnt/R_Ring_Mid_jnt/R_Ring_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Thumb_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Thumb_Meta_jnt/R_Thumb_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Jnts/R_Wrist_Conn_jnt/R_Thumb_Meta_jnt/R_Thumb_Mid_jnt/R_Thumb_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BanBox_Hold_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BanBox_Hold_JNT/BanBox_Body_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BanBox_Hold_JNT/BanBox_Body_JNT/BanBox_Crank1_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BanBox_Hold_JNT/BanBox_Body_JNT/BanBox_Disc_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT/BOOK_L_Page_Flattener4_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT/BOOK_L_Page_Flattener4_JNT/BOOK_L_Page_Flattener5_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT/BOOK_L_Page_Flattener4_JNT/BOOK_L_Page_Flattener5_JNT/BOOK_L_Page_Flattener6_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT/BOOK_L_Page_Flattener4_JNT/BOOK_L_Page_Flattener5_JNT/BOOK_L_Page_Flattener6_JNT/BOOK_L_Page_Flattener7_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT/BOOK_L_Page_Flattener4_JNT/BOOK_L_Page_Flattener5_JNT/BOOK_L_Page_Flattener6_JNT/BOOK_L_Page_Flattener7_JNT/BOOK_L_Page_Flattener8_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/BOOK_L_Page_Flattener1_JNT/BOOK_L_Page_Flattener2_JNT/BOOK_L_Page_Flattener3_JNT/BOOK_L_Page_Flattener4_JNT/BOOK_L_Page_Flattener5_JNT/BOOK_L_Page_Flattener6_JNT/BOOK_L_Page_Flattener7_JNT/BOOK_L_Page_Flattener8_JNT/BOOK_L_Page_Flattener9_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc5
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc6
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc7
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc8
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_CurveLocs/L_Page_CurvedLoc9
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc5
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc6
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc7
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc8
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_L_Book_Flap_JNT/L_Page_Dynacurv/L_FlatLocs/L_Page_FlatLoc9
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT/BOOK_R_Page_Flattener4_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT/BOOK_R_Page_Flattener4_JNT/BOOK_R_Page_Flattener5_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT/BOOK_R_Page_Flattener4_JNT/BOOK_R_Page_Flattener5_JNT/BOOK_R_Page_Flattener6_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT/BOOK_R_Page_Flattener4_JNT/BOOK_R_Page_Flattener5_JNT/BOOK_R_Page_Flattener6_JNT/BOOK_R_Page_Flattener7_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT/BOOK_R_Page_Flattener4_JNT/BOOK_R_Page_Flattener5_JNT/BOOK_R_Page_Flattener6_JNT/BOOK_R_Page_Flattener7_JNT/BOOK_R_Page_Flattener8_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/BOOK_R_Page_Flattener1_JNT/BOOK_R_Page_Flattener2_JNT/BOOK_R_Page_Flattener3_JNT/BOOK_R_Page_Flattener4_JNT/BOOK_R_Page_Flattener5_JNT/BOOK_R_Page_Flattener6_JNT/BOOK_R_Page_Flattener7_JNT/BOOK_R_Page_Flattener8_JNT/BOOK_R_Page_Flattener9_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc5
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc6
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc7
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc8
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_CurveLocs/R_Page_CurvedLoc9
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc4
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc5
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc6
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc7
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc8
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/BOOK_Hold_Jnt/BOOK_Book_Spine_JNT/BOOK_R_Book_Flap_JNT/R_Page_Dynacurve/R_FlatLocs/R_Page_FlatLoc9
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/Camera_Jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Index_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Index_Meta_jnt/L_Index_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Index_Meta_jnt/L_Index_Knuckle_jnt/L_Index_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Index_Meta_jnt/L_Index_Knuckle_jnt/L_Index_Mid_jnt/L_Index_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Middle_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Middle_Meta_jnt/L_Middle_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Middle_Meta_jnt/L_Middle_Knuckle_jnt/L_Middle_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Middle_Meta_jnt/L_Middle_Knuckle_jnt/L_Middle_Mid_jnt/L_Middle_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Pinky_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Pinky_Meta_jnt/L_Pinky_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Pinky_Meta_jnt/L_Pinky_Knuckle_jnt/L_Pinky_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Pinky_Meta_jnt/L_Pinky_Knuckle_jnt/L_Pinky_Mid_jnt/L_Pinky_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Ring_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Ring_Meta_jnt/L_Ring_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Ring_Meta_jnt/L_Ring_Knuckle_jnt/L_Ring_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Ring_Meta_jnt/L_Ring_Knuckle_jnt/L_Ring_Mid_jnt/L_Ring_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Thumb_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Thumb_Meta_jnt/L_Thumb_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/L_Thumb_Meta_jnt/L_Thumb_Mid_jnt/L_Thumb_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/transform2
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/L_Shoulder_jnt/L_Elbow_jnt/L_Forearm1/L_Forearm2/L_Forearm3/L_Wrist_jnt/transform2/L_Prop_Hold_Jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Index_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Index_Meta_jnt/R_Index_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Index_Meta_jnt/R_Index_Knuckle_jnt/R_Index_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Index_Meta_jnt/R_Index_Knuckle_jnt/R_Index_Mid_jnt/R_Index_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Middle_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Middle_Meta_jnt/R_Middle_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Middle_Meta_jnt/R_Middle_Knuckle_jnt/R_Middle_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Middle_Meta_jnt/R_Middle_Knuckle_jnt/R_Middle_Mid_jnt/R_Middle_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Pinky_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Pinky_Meta_jnt/R_Pinky_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Pinky_Meta_jnt/R_Pinky_Knuckle_jnt/R_Pinky_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Pinky_Meta_jnt/R_Pinky_Knuckle_jnt/R_Pinky_Mid_jnt/R_Pinky_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Prop_Hold_Jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Ring_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Ring_Meta_jnt/R_Ring_Knuckle_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Ring_Meta_jnt/R_Ring_Knuckle_jnt/R_Ring_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Ring_Meta_jnt/R_Ring_Knuckle_jnt/R_Ring_Mid_jnt/R_Ring_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Thumb_Meta_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Thumb_Meta_jnt/R_Thumb_Mid_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Chest/R_Shoulder_jnt/R_Elbow_jnt/R_Forearm1_jnt/R_Forearm2_jnt/R_Forearm3_jnt/R_Wrist_jnt/R_Thumb_Meta_jnt/R_Thumb_Mid_jnt/R_Thumb_Tip_jnt
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Flashlight_Hold_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Flashlight_Hold_JNT/Flashlight_Body_JNT
+    m_Weight: 1
+  - m_Path: Rig_Main_Grp/Root/Flashlight_Hold_JNT/Flashlight_Body_JNT/Flashlight_Slider_JNT
+    m_Weight: 1
